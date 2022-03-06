@@ -1,4 +1,4 @@
-# sistemasdistribuidosapp
+# Aplicação Front-end
 
 Tutorial de como rodar a aplicação front-end.
 
